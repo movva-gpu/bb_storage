@@ -1,0 +1,11 @@
+{
+  "type": "bb_storage:gem_powering",
+  "ingredients": [
+    {
+      "item": "minecraft:amethyst_shard"
+    }
+  ],
+  "output": {
+    "item": "bb_storage:powered_amethyst_shard"
+  }
+}

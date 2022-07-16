@@ -1,0 +1,11 @@
+{
+  "type": "bb_storage:gem_powering",
+  "ingredients": [
+    {
+      "item": "minecraft:emerald"
+    }
+  ],
+  "output": {
+    "item": "bb_storage:powered_emerald"
+  }
+}

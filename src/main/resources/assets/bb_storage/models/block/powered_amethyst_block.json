@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "bb_storage:block/powered_amethyst_block"
+  }
+}

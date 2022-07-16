@@ -1,0 +1,25 @@
+modLoader="javafml" #mandatory
+loaderVersion="[41,)" #mandatory
+
+license="MIT"
+[[mods]] #mandatory
+modId="bb_storage" #mandatory
+version="0.0.1" #mandatory
+displayName="BB Storage" #mandatory
+authors="OFTL, Movva Moonlight"
+credits="OFTL, Movva Moonlight"
+description='Another mod that allows you to store items.'
+
+[[dependencies.bb_storage]]
+    modId="forge"
+    mandatory=true
+    versionRange="[41,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.bb_storage]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19,1.20)"
+    ordering="NONE"
+    side="BOTH"

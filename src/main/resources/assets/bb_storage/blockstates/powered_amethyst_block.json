@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "bb_storage:block/powered_amethyst_block"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "block.bb_storage.powered_amethyst_block": "Powered Amethyst Block",
+  "block.bb_storage.powered_amethyst_lamp": "Powered Amethyst Lamp",
+  "block.bb_storage.powered_emerald_block": "Powered Emerald Block",
+  "block.bb_storage.gem_powering_station": "Gem Powering Station",
+
+  "item.bb_storage.powered_amethyst_shard": "Powered Amethyst Shard",
+  "item.bb_storage.powered_emerald": "Powered Emerald",
+
+  "itemGroup.bb_decorations_tab": "BB Decorations",
+  "itemGroup.bb_resources_tab": "BB Resources",
+  "itemGroup.bb_stations_tab": "BB Stations",
+
+  "entity.minecraft.villager.bb_storage.gem_powerer": "Gem Powerer",
+
+  "container.gem_powering_station": "Gem Powering Station"
+}
